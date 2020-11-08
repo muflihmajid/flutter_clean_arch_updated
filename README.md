@@ -9,14 +9,13 @@ A new Flutter project.
 #### Configure .env file
 
 Create your .env or copy and rename .env.example into .env with information below:
-
 ```
-BASE_URL=https://private-5aea5-sfdbsi.apiary-mock.com/api/v1
+BASE_URL=https://private-1f498c-cleanarch.apiary-mock.com
 ```
 
 #### Requirements
 
-  - Flutter version: *v1.12.13+hotfix.5 or More*
+  - Flutter version: *v1.12.13+hotfix.5*
   - Don't forget to run `flutter pub get`
 
 ### Convetions and MUST DOs
