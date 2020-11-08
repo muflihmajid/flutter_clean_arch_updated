@@ -16,7 +16,7 @@ BASE_URL=https://private-5aea5-sfdbsi.apiary-mock.com/api/v1
 
 #### Requirements
 
-  - Flutter version: *v1.12.13+hotfix.5*
+  - Flutter version: *v1.12.13+hotfix.5 or More*
   - Don't forget to run `flutter pub get`
 
 ### Convetions and MUST DOs
